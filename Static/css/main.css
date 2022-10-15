@@ -1,0 +1,48 @@
+p {
+  background-color: #6495ED;
+  color: white
+}
+h1 {
+  border-style: solid;
+  border-width: thick;
+  background-color: #87CEFA
+  }
+
+p {
+  font-style: italic;
+  font-weight: bold;
+}
+p {
+  font-size: large;
+}
+p {
+margin - top: 100px;
+margin - bottom: 100px;
+margin - right: 150px;
+margin - left: 80px;
+}
+img {
+  height: 300px;
+  width: 500px;
+}
+#Jenny {
+  width: 500px
+height: 500px;
+object-fit: contain;
+}
+#SFHS
+{
+  width: 100px
+height: 100px;
+object-fit: scale-down;
+}
+#UPD
+{
+  width: 100px
+height: 100px;
+object-fit: scale-down;
+}
+h2 {
+  border: 3px solid black;
+  outline: 2px inset blue;
+}
